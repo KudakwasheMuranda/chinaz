@@ -1,0 +1,117 @@
+/**
+*========================================================================
+This file contains css that is customm to VOL
+main colors : #F26E26 orange, #00B0F0 blue
+*========================================================================
+ */
+
+.header{
+    top: 0!important;
+    position: fixed;
+    width: 100%;
+    height: 82px;
+}
+.home{
+    margin-top: 2rem;
+}
+.hero_slider_nav {
+    background: none;
+    display: none;
+}
+.hero_box{
+   opacity: 0.8;
+}
+.hero_box:hover{
+    background: #000000;
+    opacity: 0.9;
+}
+.popular.page_section{
+    padding-bottom: 41px;
+}
+.section_title h1 {
+    padding-top: 16px;
+}
+.program-explation{
+    color: #000000;
+    font-size: 1rem;
+}
+.page_section {
+    padding-top: 60px;;
+}
+.course_boxes {
+    margin-top: 8px;
+}
+.card-title a{
+    color: #F26E26;
+}
+.card-title{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.option-2{
+    margin-top: 2rem;
+}
+.option-2 .card-title{
+    height: 2rem;
+}
+.card-text{
+    color: #000000;
+    height: 6rem;
+}
+.card-footer{
+    font-weight: bold;
+    background: inherit;
+    margin-top: 1rem;
+}
+.course-list-item{
+    padding: 0.3rem 0;
+    border-bottom: solid #808080 1px;
+}
+.course-list-item a{
+    color: #000000;
+}
+.option-2 .card-text{
+    height: 12rem;
+}
+.courses-list{
+    margin-top: 0.7rem;
+}
+.courses-list h3{
+    font-weight: bold;
+    color: #F26E26;
+}
+.course-lenght{
+    color: #F26E26;
+}
+.option-2 .card-footer{
+    border-top: none;
+}
+.option-2 .card-footer{
+    margin-top: 0;
+}
+
+.register_section {
+    width: 100%;
+    background: #F26E26;
+    padding-top: 50px;
+    padding-bottom: 132px;
+}
+.icon_container img{
+    align-self: center;
+}
+.footer {
+    padding-top: 0px;
+    background: #292971;
+}
+.footer_column_title{
+    color: #fff!important;
+}
+.footer_contact_item {
+    color: #fff;
+}
+.footer_list_item a{
+    color: #fff!important;
+}
+.footer_contact_item a{
+    color: #fff;
+}
