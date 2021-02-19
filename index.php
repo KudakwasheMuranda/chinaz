@@ -31,10 +31,10 @@
             <nav class="main_nav_container">
                 <div class="main_nav">
                     <ul class="main_nav_list">
-                        <li class="main_nav_item"><a href="#">Home</a></li>
-                        <li class="main_nav_item"><a href="#">Our Story</a></li>
-                        <li class="main_nav_item"><a href="courses.html">Programs</a></li>
-                        <li class="main_nav_item"><a href="elements.html">Why VOL</a></li>
+                        <li class="main_nav_item"><a href="index.php">Home</a></li>
+                        <li class="main_nav_item"><a href="our_story.php">Our Story</a></li>
+                        <li class="main_nav_item"><a href="programs.php">Programs</a></li>
+                        <li class="main_nav_item"><a href="why-vol.php">Why VOL</a></li>
                         <li class="main_nav_item"><a href="news.html">Register</a></li>
                         <li class="main_nav_item"><a href="contact.html">Contact Us</a></li>
                     </ul>
@@ -43,7 +43,7 @@
         </div>
         <div class="header_side d-flex flex-row justify-content-center align-items-center">
             <img src="images/phone-call.svg" alt="">
-            <span>+43 4566 7788 2457</span>
+            <span>+263 242 300547</span>
         </div>
 
         <div class="hamburger_container">
@@ -90,7 +90,9 @@
                     <div class="hero_slide_background" style="background-image:url(images/slider_background.jpg)"></div>
                     <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
                         <div class="hero_slide_content text-center">
-                            <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Vertual Open House Learning</h1>
+                            <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
+                                Virtual Open House Learning
+                            </h1>
                         </div>
                     </div>
                 </div>
@@ -99,7 +101,9 @@
                     <div class="hero_slide_background" style="background-image:url(images/slider_background.jpg)"></div>
                     <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
                         <div class="hero_slide_content text-center">
-                            <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Education</span> today!</h1>
+                            <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
+                                Inspire Empower Transform
+                            </h1>
                         </div>
                     </div>
                 </div>
@@ -108,7 +112,9 @@
                     <div class="hero_slide_background" style="background-image:url(images/slider_background.jpg)"></div>
                     <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
                         <div class="hero_slide_content text-center">
-                            <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Education</span> today!</h1>
+                            <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
+                                Knowledge & Skill
+                            </h1>
                         </div>
                     </div>
                 </div>

@@ -44,6 +44,9 @@ main colors : #F26E26 orange, #00B0F0 blue
 .card-title a{
     color: #F26E26;
 }
+.card-title a:hover{
+    color: #F26E26;
+}
 .card-title{
     margin-top: 20px;
     margin-bottom: 40px;
@@ -57,6 +60,9 @@ main colors : #F26E26 orange, #00B0F0 blue
 .card-text{
     color: #000000;
     height: 6rem;
+    font-weight: normal;
+    font-family: "Calibri Light";
+    font-size: 1.03rem;
 }
 .card-footer{
     font-weight: bold;
@@ -114,4 +120,31 @@ main colors : #F26E26 orange, #00B0F0 blue
 }
 .footer_contact_item a{
     color: #fff;
+}
+
+/************ Our story Pages css **********************/
+.our-story.home{
+    height: 35vh;
+}
+.inner-heading{
+    border-bottom: solid #F26E26 2px;
+    margin-bottom: 0.5rem
+}
+.values-heading{
+    font-weight: bold;
+}
+.our-story.register_section{
+    background: #bcbcc3;
+}
+
+/************** Programms Page css*********************/
+.program-icon{
+    color:#fff;background: #F26E26;
+    padding: 1.1rem 1rem
+}
+.programs-list-heading{
+    font-weight: bold;
+}
+.programs .inner-heading{
+    margin-top: 1.8rem;
 }
